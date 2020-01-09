@@ -3,7 +3,7 @@ backports.functools-lru-cache==1.6.1
 certifi==2019.11.28
 chardet==3.0.4
 Click==7.0
-cryptography==2.1.4
+cryptography==2.3
 cycler==0.10.0
 Cython==0.29.14
 cython-setuptools==0.2
