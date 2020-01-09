@@ -25,3 +25,11 @@ for rows in a:
         print(i, end=" ")
     print()
 
+# Some tricks:
+# You can use elipsis to indeicate
+# numpy to consider all the remaining
+# dimentions
+# Say, we have an array `a` of shape (5,5,5,5,5)
+# We have: a[1,...] equivalent to a[1,:,:,:,:]
+# Similarly, a[..., 1] is equivalent to a[:,:,:,:,1]
+
