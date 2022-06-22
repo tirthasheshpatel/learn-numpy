@@ -2,7 +2,7 @@ Cython==0.29.14
 cython-setuptools==0.2
 dask==1.2.2
 matplotlib==2.2.4
-numpy==1.16.5
+numpy==1.22.0
 pandas==0.24.2
 requests==2.22.0
 scipy==1.2.2
